@@ -1,0 +1,15 @@
+
+body 
+{
+
+    margin: 0; 
+    padding: 0;
+    background: #2980b9;
+    overflow:hidden;
+}
+/*gives rain a 15 degree angle, can be changed.*/
+canvas
+{
+    display: block;
+    transform:scale(1.5) skewX(15deg);
+}
