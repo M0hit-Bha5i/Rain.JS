@@ -1,2 +1,2 @@
-# Canvas-Rain
-A simple JavaScript library to make a rainfall effect on HTML5 Canvas
+# Rain.JS
+A simple JavaScript library to make a rainfall effect on a HTML5 Canvas
